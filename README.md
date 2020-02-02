@@ -1,0 +1,25 @@
+#Travel destination HTML/CSS
+
+## Description
+
+This project is a copy of TripAdvisor website page.
+
+## Installation
+
+First, clone the project :
+
+```
+git clone git@github.com:gloluz/e-shop.git
+```
+
+## Read
+
+To read this project, open with live server in VS Code.
+
+## Contributing
+
+To contributing please refer to the [CONTRIBUTING.MD](CONTRIBUTING.MD)
+
+## License
+
+[LICENSE MIT](LICENSE)
