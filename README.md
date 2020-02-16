@@ -1,4 +1,4 @@
-#Travel destination HTML/CSS
+# Tripadvisor clone
 
 ## Description
 
