@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a copy of TripAdvisor website page.
+This project is a copy of TripAdvisor website page only in HTML / CSS.
 
 ## Installation
 
