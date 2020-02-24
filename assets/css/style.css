@@ -633,6 +633,7 @@ header {
 button.more {
   cursor: pointer;
   background-color: #088171;
+  border: none;
   color: #ffffff;
   justify-content: center;
   align-items: center;
